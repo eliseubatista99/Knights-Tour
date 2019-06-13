@@ -21,7 +21,7 @@ of positions that are not available to them are already occupied by existing pie
 run (using the horse) all remaining squares passing only once in each
 one of them?
 
-**Input
+**Input**
 
 The entry of this exercise consists of a line containing the integer n representing the size
 of the board no. n, where the first position is (0, 0).
